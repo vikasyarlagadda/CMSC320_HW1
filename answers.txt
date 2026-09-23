@@ -9,3 +9,7 @@ Answer: Data science can be applied to transportation. A very obvious scenario I
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines changes from branches while preserving their history and may create a merge commit. Rebasing reapplies commits on top of another branch, rewriting their history to create a new linear sequence.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning how to work with datasets and using Python to analyze them to answer real world practical questions.
