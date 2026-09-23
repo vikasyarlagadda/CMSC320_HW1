@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to transportation. A very obvious scenario I can think of is that traffic data can be used to predict congestion and help drivers choose faster routes when going to work.
