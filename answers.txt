@@ -5,3 +5,7 @@ Answer: To have stable and efficient version control systems for when you want t
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to transportation. A very obvious scenario I can think of is that traffic data can be used to predict congestion and help drivers choose faster routes when going to work.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from branches while preserving their history and may create a merge commit. Rebasing reapplies commits on top of another branch, rewriting their history to create a new linear sequence.
